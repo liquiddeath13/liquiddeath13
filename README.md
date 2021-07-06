@@ -1,4 +1,9 @@
-### ✨stats✨
+## Achievements
+
+### Цифровой прорыв 2020
+![](https://github.com/liquiddeath13/liquiddeath13/blob/master/29bcc3b1-13c8-4c10-b09a-0b36ed27ff01.png)
+
+## ✨Github Stats✨
 <!---
 - 🔭 I’m currently working on my diplomacy
 - 🌱 I’m currently learning life rules
