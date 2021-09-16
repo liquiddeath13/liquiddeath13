@@ -1,7 +1,7 @@
 ## Achievements
 
 ### https://2020.leadersofdigital.ru/event/63006/case/173439/results
-![](https://github.com/liquiddeath13/liquiddeath13/blob/master/29bcc3b1-13c8-4c10-b09a-0b36ed27ff01.png)
+![](http://i.imgur.com/LHnv012.png)
 
 ## ✨Github Stats✨
 <!---
